@@ -1,0 +1,15 @@
+### **Etapa 6: Reflexão Final (Entrega Escrita)**
+
+Responda às seguintes perguntas em até 1 página:
+
+1. Por que a normalização foi essencial para a integridade dos dados da fábrica?
+R: Foi essencial para deixar o banco de dados mais organizado, consistente, mais rápido e sem redundância.
+---
+2. Em que situações a desnormalização se torna uma escolha estratégica, e não um erro?
+R: Para deixar as querys do banco mais rápidas
+---
+3. Quais riscos a tabela desnormalizada pode trazer? Como você mitigaria esses riscos?
+R: Dados redundantes, informações vazias e/ou confusas, dados inconsistentes, querys demoradas, etc... Eu mitigaria esses atrasos simplesmente implantando as normas.
+---
+4. Qual seria o impacto de não aplicar a BCNF neste cenário?
+R: O banco de dados seria muito pouco eficiente e muito bagunçado.

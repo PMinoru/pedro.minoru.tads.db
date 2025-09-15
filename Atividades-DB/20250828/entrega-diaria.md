@@ -12,4 +12,10 @@ Atividade: **Gerenciar Vendas com Cupons**.
 - **Mecanismos**: E-commerce, gateway de pagamento, banco de dados, equipe.
 - **Saídas**: Pedido registrado, cupom aplicado, recibo, logs de auditoria.
 
-[image](./Modelo.png)
+[image](./IDEF0.png)
+
+Além disso, foi feito o diagrama das 5 visões pensando no estudo de caso passado pelo professor
+[image] (./5-visoes.png)
+
+E o modelo entidade relacionamento
+[imagem](./MER.png)
